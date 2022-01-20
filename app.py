@@ -15,7 +15,7 @@ feature_names = ['Have_IP', 'Have_At', 'URL_Length', 'URL_Depth','Redirection',
                       'Domain_Age', 'Domain_End', 'iFrame', 'Mouse_Over','Right_Click', 'Web_Forwards']
 legi_urls = ["https://www.google.com/","https://www.facebook.com/","https://www.youtube.com/","https://www.apple.com/","https://www.juet.ac.in/",
              "https://www.amazon.com/", "https://www.netflix.com/in/", "https://www.flipkart.com/", "https://www.hurawatch.com/", "https://web.whatsapp.com/",
-             "https://classroom.google.com/u/1/h", "https://www.github.com/", "https://www.gmail.com/"]
+             "https://classroom.google.com/u/1/h", "https://www.github.com/", "https://www.gmail.com/", "https://wwww.wikipedia.com/"]
 
 
 # x = featureExtraction(url)
